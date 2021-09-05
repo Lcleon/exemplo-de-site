@@ -109,7 +109,8 @@
     border:2px solid transparent;
     background-clip:padding-box;
     backdrop-filter: blur(8px);
-    line-height: 1.5;    
+    line-height: 1.5; 
+    transition: all 1s;   
 }
 
 .fosco4:hover{
